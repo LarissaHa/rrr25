@@ -12,7 +12,7 @@
 | Aces | 21,0180 | change not significant |
 | non-ace points on serve | 10,5230 | significantly higher |
 
-![Screenshot 2025-06-06 at 14.20.35.png](Screenshot 2025-06-06 at 14.20.35.png)
+![Screenshot 2025-06-06 at 14.20.35.png](https://github.com/LarissaHa/rrr25/blob/main/package_a/Screenshot%202025-06-06%20at%2014.20.35.png)
 
 # survey results for package A
 
