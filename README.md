@@ -26,7 +26,7 @@ May - June 2025
 
 ## Package C
 
-June - July 2025
+July - August 2025
 - out of bounds (circle 8.5m radius)
 - bigger no hit zone (100cm for all)
 - no drop zone for serves and hits (as big as NHZ)
@@ -37,3 +37,14 @@ June - July 2025
 - server's teammate is free to move
 - receiver's teammate free to move
 - simultaneous contacts count as 1 touch
+
+# Open Questions
+
+- are the games closer with packages?
+- do we see more / less point steaks with the packages?
+- how are different player types dealing with different packages
+- how is the impact of single rule adjustments?
+- are there mehr points player where a defensive touch cannot be converted on the net? (3 COP, max 3 LPT)
+- how to player adapt over 3 sets to the new rules - can they play defence more easily because they can adapt quicker to opponents?
+- exptected points / goals
+- comeback expectancy
